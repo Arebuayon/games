@@ -40,7 +40,7 @@ Supervivencia a oleadas de zombies hecho para practicar blueprints con mecanicas
 
 
 
-[ProjectZP](https://github.com/ezepdev/ClashingLegends)
+[ProjectZP](https://github.com/Arebuayon/ProjectZP)
 
 Proyecto entregado para un curso de introduccion a unreal engine donde se aprendieron y se pusieron en practica conceptos como Level Design, Sequencer, Animacion y uso de Camaras, Landscape y Foliage mode, Materiales, Texturas, VFX, Importacion y uso de los tipos de Meshes e Iluminacion.
 
